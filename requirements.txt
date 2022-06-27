@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+pywhatkit
+json
+pyjokes
+chatterbot==1.0.4
